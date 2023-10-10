@@ -1,0 +1,11 @@
+{
+  "name": "Metallic-Shout",
+  "short-name": "Shout Metal",
+  "display": "standalone",
+  "description": "All humans want to shout metallic.",
+  "background_color": "#000",
+  "theme_color": null,
+  "application_scope": "/",
+  "start_url": "/",
+  "icons": "https://github.com/metallic-shout/front-pre-resources/releases/download/assets-v1.0.0/base-icon.png"
+}
