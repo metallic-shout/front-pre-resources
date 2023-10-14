@@ -9,11 +9,10 @@ You can continue the next without just download if you had downloaded the image.
 
 Open the under url on your browser.
 
-https://www.simicart.com/manifest-generator.html/
+https://favicon-generator.mintsu-dev.com/
 
 And enter like base.json.
 Add, download the result.
-Do not forget unzipping the downloaded.
 
 ## release
 
